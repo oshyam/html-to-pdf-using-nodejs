@@ -1,0 +1,12 @@
+In You Computer, NodeJS must be installed .
+step 1 : run npm init in your project file
+step 2: we are using two packages 
+hit --> npm i handlebars puppeteer
+to install , it will take some time.
+Step 3: Edit changes in index.html and run node index.js
+Voila.! Done !
+ Everything will be available in the description below ..
+ help us to make more content like this by subscribing.
+ 
+ 
+ 

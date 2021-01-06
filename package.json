@@ -1,0 +1,19 @@
+{
+  "name": "superinvoice",
+  "version": "1.0.0",
+  "description": "Just a try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "gen"
+  ],
+  "author": "sam",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "puppeteer": "^5.5.0"
+  }
+}
